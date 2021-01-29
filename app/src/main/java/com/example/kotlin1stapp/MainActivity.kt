@@ -9,5 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // my new kotlin example
 
+        var name:String="Ajay"
+
+
+
     }
 }
