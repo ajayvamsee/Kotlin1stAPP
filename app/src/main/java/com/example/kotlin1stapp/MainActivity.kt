@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         var name:String="Ajay"
         println("1st commit")
+        println("2nd commit")
 
 
 
