@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
         // my new kotlin example
 
         var name:String="Ajay"
-        println("1st commit")
 
 
 
